@@ -1,2 +1,4 @@
-# Practice1
-Practing
+Welcome to Pallavi's Readme file
+
+I love eating
+
